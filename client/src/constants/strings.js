@@ -1,0 +1,23 @@
+export const strings = {
+  appName: 'Smart Tourism',
+  welcome: 'Welcome to Smart Tourism',
+  login: 'Login',
+  register: 'Register',
+  logout: 'Logout',
+  home: 'Home',
+  trips: 'Trips',
+  profile: 'Profile',
+  recommendations: 'Recommendations',
+  preferences: 'Preferences',
+  groupPlanning: 'Group Planning',
+  chat: 'Chat',
+  loading: 'Loading...',
+  error: 'An error occurred',
+  noTrips: 'No trips found',
+  createTrip: 'Create New Trip',
+  save: 'Save',
+  cancel: 'Cancel',
+  delete: 'Delete',
+  edit: 'Edit',
+};
+
